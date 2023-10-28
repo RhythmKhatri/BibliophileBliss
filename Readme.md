@@ -2,7 +2,7 @@
 # Bibliophile Bliss
 
 An online book store using MERN Stack
-
+Link : https://bibliophilebliss.netlify.app/
 
 FEATURES : 
 
@@ -71,42 +71,4 @@ In Mobile View.
 
 
 
-
-
-## Installation
-
-Clone this repo.
-
-go to .../BibliopholeBliss/Backend
-
-```bash
-  npm install 
-```
-
-and to start type command
-```bash
-  npm start
-```
-
-Follow these steps for frontend as well.
-
-
-    
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-In backend
-
-`JWT_SECRET` (Give any random key)
-
-`DATABASE_URL=` (Contact me for Database URL)
-
-
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at khatrirhythm@gmail.com
 
