@@ -1,7 +1,8 @@
 
 # Bibliophile Bliss
 
-An online book store using MERN Stack
+An online book store using MERN 
+
 Link : https://bibliophilebliss.netlify.app/
 
 FEATURES : 
